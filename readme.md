@@ -1,6 +1,6 @@
 # Hum
 
-Simple, lightweight HTTP routing framework
+Simple HTTP routing library
 
 ### Basic Example
 
