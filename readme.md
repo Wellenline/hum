@@ -1,11 +1,11 @@
 # Hum
 
-Simple, lightwieght & dependency free HTTP routing framework
+Simple, lightweight HTTP routing framework
 
 ### Basic Example
 
 ```typescript
-import { app, Get, Hum, Resource } from "https://deno.land/x/Hum@0.1.0/mod.ts";
+import { app, Get, Hum, Resource } from "https://deno.land/x/hum@v0.0.4/mod.ts";";
 
 @Resource()
 export class Hello {
