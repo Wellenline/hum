@@ -5,7 +5,7 @@ Simple HTTP routing library
 ### Basic Example
 
 ```typescript
-import { app, Get, Hum, Resource } from "https://deno.land/x/hum@v0.0.4/mod.ts";";
+import { app, Get, Hum, Resource } from "https://deno.land/x/hum@v0.0.4/mod.ts";
 
 @Resource()
 export class Hello {
